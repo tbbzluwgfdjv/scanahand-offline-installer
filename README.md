@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Category-Font+Creator-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 Scanahand Free Installer** — Scanahand is a Windows application that creates custom fonts from your handwriting. Works without internet access, no account required. Full offline installation.
+**💻 Scanahand Free Installer** — Scanahand is a Windows application that turns your handwriting into a digital font in minutes. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -30,16 +30,16 @@
 
 ## 📖 About Scanahand
 
-Scanahand is a Windows application that creates custom fonts from your handwriting. Print a template, fill it in by hand, scan it, and Scanahand converts your handwriting into a usable TTF or OTF font for use in documents, designs, and personal projects.
+Scanahand is a Windows application that turns your handwriting into a digital font in minutes. Write characters on a printed template, scan it, and Scanahand automatically traces and creates a TTF font file matching your handwriting style. Perfect for creating personalized fonts for greeting cards, documents, and creative projects without any technical type design knowledge.
 
 ---
 
 ## ❌ Problem: Scanahand is hard to access
 
-- **Windows Only** — No macOS or Linux version available
-- **Simple Output** — Generated fonts are basic; professional quality requires manual refinement
-- **Scanner Required** — Needs a flatbed scanner for best results; camera capture is secondary
-- **Limited Customization** — Fewer controls for fine-tuning the converted handwriting quality
+- **Windows Only** — No macOS version available
+- **Scan Quality Dependency** — Font quality depends on scan resolution and handwriting clarity
+- **Limited Customization** — Less control over individual glyph shapes than dedicated editors
+- **Commercial License** — Requires paid license for full character set coverage
 
 ---
 
@@ -121,7 +121,7 @@ Scanahand is a Windows application that creates custom fonts from your handwriti
 
 ---
 
-**Scanahand Free Installer** — Scanahand is a Windows application that creates custom fonts from your handwriting. Install without internet connection today!
+**Scanahand Free Installer** — Scanahand is a Windows application that turns your handwriting into a digital font in minutes. Install without internet connection today!
 
 <div align="center">
 
